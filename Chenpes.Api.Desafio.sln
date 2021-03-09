@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chenpes.Api.Desafio", "Chenpes.Api.Desafio\Chenpes.Api.Desafio.csproj", "{23FF7623-563A-4D81-A2F1-436BA4CC3211}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chenpes.Api.Teste", "Chenpes.Api.Teste\Chenpes.Api.Teste.csproj", "{BD54E77E-6D35-40BF-93DE-CCC450136746}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23FF7623-563A-4D81-A2F1-436BA4CC3211}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23FF7623-563A-4D81-A2F1-436BA4CC3211}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23FF7623-563A-4D81-A2F1-436BA4CC3211}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23FF7623-563A-4D81-A2F1-436BA4CC3211}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD54E77E-6D35-40BF-93DE-CCC450136746}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD54E77E-6D35-40BF-93DE-CCC450136746}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD54E77E-6D35-40BF-93DE-CCC450136746}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD54E77E-6D35-40BF-93DE-CCC450136746}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7587F121-7247-4AE4-89ED-02BC2BA6731F}
+	EndGlobalSection
+EndGlobal
